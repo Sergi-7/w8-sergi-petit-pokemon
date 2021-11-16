@@ -1,0 +1,1 @@
+const ServerSideRendering = ({ pokemon }) => {};
